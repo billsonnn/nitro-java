@@ -1,7 +1,7 @@
 # database
 database.host: "0.0.0.0"
 database.port: 3306
-database.name: ""
+database.name: "fuck"
 database.user: ""
 database.pass: ""
 database.params: ""
